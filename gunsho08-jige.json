@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jige-utaawase",
  "yomi": "じげうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "室町中期",
+  "author": "判者 正広",
+  "desc": "地下（官位の低い者）の歌人による歌合。泉夏栖などの題で、明充・直定・良祐らが詠み、正広が判を加え、すぐれた歌十首に点を付けた。奥書に、蜷川親元の自筆本を写したとある。"
+ },
  "editions": [
   {
    "pid": "1879502",
